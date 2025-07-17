@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/leee62-sentry-issues-mcp-badge.png)](https://mseep.ai/app/leee62-sentry-issues-mcp)
+
 # sentry-issue-mcp
 
 [![中文文档](https://img.shields.io/badge/中文文档-查看-red)](README_cn.md)
